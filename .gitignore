@@ -3,7 +3,7 @@ datasets/*
 TP/Test.ipynb
 TP/dataset/*
 TP/.DS_Store
-TP/scripts/__pycache__/import_data.cpython-39.pyc
+TP/scripts/__pycache__/*
 series copy.html
 series copy.ipynb
 .DS_Store
