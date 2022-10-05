@@ -7,4 +7,10 @@ def data():
     rolling_median = pd.read_csv('dataset/rolling_median.csv', index_col='fecha')
     #Importo serie diferenciada
     difference = pd.read_csv('dataset/difference.csv', index_col='fecha')
-    return molinetes, rolling_median, difference
+    #Importo serie sin la tendencia
+    de_trend = pd.read_csv('dataset/de_trend.csv', index_col='fecha')
+    
+    return molinetes, rolling_median, difference, de_trend
+
+
+    
