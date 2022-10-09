@@ -22,6 +22,7 @@
 │   ├── 05-Transformaciones_y_modelos.ipynb
 │   ├── 06-Analisis_de_residuos.ipynb
 │   ├── 07-Analisis_espectral.ipynb
+│   ├── 08-Modelo_con_LSTM.ipynb
 │   ├── notebook_completa.ipynb
 |   └──.gitignore
 ```
