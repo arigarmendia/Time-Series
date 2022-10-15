@@ -22,7 +22,9 @@
 │   ├── 05-Transformaciones_y_modelos.ipynb
 │   ├── 06-Analisis_de_residuos.ipynb
 │   ├── 07-Analisis_espectral.ipynb
-│   ├── 08-Modelo_con_LSTM.ipynb
+│   ├── 08-a-LSTM.ipynb
+│   ├── 08-b-LSTM_con_feriados.ipynb
+│   ├── 08-c-LSTM_con_cyclical_encoding.ipynb
 │   ├── notebook_completa.ipynb
 │   ├──.gitignore
 │   ├── Presentación TP - Series Teporales - Pasajeros del subte.pdf
